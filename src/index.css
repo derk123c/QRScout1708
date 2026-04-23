@@ -1,8 +1,8 @@
 :root {
-  /* 🔵 CORE BRAND */
-  --primary: #84cc16;        /* lime main */
-  --primary-dark: #65a30d;
+  /* 🔵 1708 BRAND */
+  --primary: #84cc16;
   --primary-light: #a3e635;
+  --primary-dark: #65a30d;
 
   /* ⚫ BACKGROUND */
   --bg-main: #0a0a0a;
@@ -13,12 +13,15 @@
   --text-main: #ffffff;
   --text-muted: #9ca3af;
 
-  /* 🟢 STATUS */
+  /* STATUS */
   --success: #22c55e;
-  --warning: #facc15;
   --error: #ef4444;
 
-  /* 🧱 UI */
+  /* UI */
   --border: #2a2a2a;
-  --radius: 12px;
+}
+body {
+  background: var(--bg-main);
+  color: var(--text-main);
+  font-family: Inter, system-ui, sans-serif;
 }
