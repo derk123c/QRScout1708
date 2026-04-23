@@ -1,12 +1,7 @@
 :root {
-  /* 🔵 1708 BRAND */
-  :root {
-  --primary: 84 81% 44%;        /* lime */
-  --primary-foreground: 0 0% 0%; /* black text */
-   --primary-glow: rgba(132, 204, 22, 0.4);
-  --primary-light: #a3e635;
-  --primary-dark: #65a30d;
-  }
+  --primary: #84cc16;
+  --primary-foreground: #000000;
+}
   /* ⚫ BACKGROUND */
   --bg-main: #0a0a0a;
   --bg-card: #111111;
