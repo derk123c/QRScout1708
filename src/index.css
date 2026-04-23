@@ -3,14 +3,14 @@
 @tailwind utilities;
 
 :root {
-  --primary: #84cc16;
-  --primary-foreground: #000000;
-  --bg-card: #111111;
-  --border: #2a2a2a;
+  --primary: "#84cc16";
+  --primary-foreground: "#000000";
+  --bg-card: "#111111";
+  --border: "#2a2a2a";
 }
 
 body {
-  background-color: #0a0a0a;
+  background-color: "#0a0a0a";
   color: white;
 }
 
