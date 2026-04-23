@@ -1,6 +1,8 @@
 :root {
   /* 🔵 1708 BRAND */
-  --primary: #84cc16;
+  :root {
+  --primary: 84 81% 44%;        /* lime */
+  --primary-foreground: 0 0% 0%; /* black text */
    --primary-glow: rgba(132, 204, 22, 0.4);
   --primary-light: #a3e635;
   --primary-dark: #65a30d;
