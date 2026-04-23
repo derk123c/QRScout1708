@@ -86,6 +86,17 @@ module.exports = {
   			'accordion-down': 'accordion-down 0.2s ease-out',
   			'accordion-up': 'accordion-up 0.2s ease-out'
   		}
+		theme: {
+  extend: {
+    colors: {
+      primary: 'var(--primary)',
+      primaryLight: 'var(--primary-light)',
+      primaryDark: 'var(--primary-dark)',
+      card: 'var(--bg-card)',
+      border: 'var(--border)',
+    }
+  }
+}
   	}
   },
   plugins: [require('@tailwindcss/forms'), require('tailwindcss-animate')],
