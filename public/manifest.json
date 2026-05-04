@@ -1,8 +1,8 @@
 {
-  "name": "QR Scout",
-  "short_name": "QR Scout",
-  "theme_color": "#ffffff",
-  "background_color": "#f03d41",
+   "name": "Team 1708 QR Scout",
+  "short_name": "1708 Scout",
+  "theme_color": "#16a34a",
+  "background_color": "#000000",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/QRScout/",
